@@ -295,6 +295,10 @@ h6 { font-size: 16px;}
 }
 
 
+.main-container div{
+
+}
+
 #skills{
 	display: flex;
 	justify-content: space-evenly;
